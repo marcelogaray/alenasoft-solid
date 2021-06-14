@@ -1,6 +1,6 @@
 package edu.alenasoft.gildedrose;
 
-public class AgedBrie implements QualityItem{
+public class AgedBrie implements QualityItem {
     @Override
     public void updateQuality(Item item) {
         if (item.getQuality() < 50) {

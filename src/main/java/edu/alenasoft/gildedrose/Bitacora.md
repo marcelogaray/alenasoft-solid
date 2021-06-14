@@ -39,15 +39,3 @@ Todo el calculo de la "actualizacion de cantidad" esta en Gilded Rose class
 updateQuantity no permitir extender la funcionalidad de un nuevo Item 
 sin tener que modificar la clase misma.
 ```
-
-
-##Item class.
-
-### Encapsulation:
-
-```
-Codigo muy grande
-Codigo duplicado
-No existe encapsulacion
-Todo esta en un solo metodo.
-```

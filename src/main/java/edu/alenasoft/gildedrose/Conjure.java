@@ -1,6 +1,6 @@
 package edu.alenasoft.gildedrose;
 
-public class Conjured implements QualityItem{
+public class Conjure implements QualityItem{
     @Override
     public void updateQuality(Item item) {
         if (item.getQuality() > 0) {
